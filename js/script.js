@@ -19,7 +19,7 @@ $(document).ready(function() {
 
 	var typed = new Typed(".typed", {
 		// strings: ["Web Designer.", "Expert in HTML5, CSS3, Bootstrap.", "Expert in PSD TO HTML."],
-		strings: ["Completed BS.c (Engg) degree in ECE", "from HSTU, Dinajpur", "Expert in Web Design", "Expert in HTML5, CSS3", "Expert in Bootstrap", "Expert in PSD TO HTML.",  "Expert in WordPress."],
+		strings: ["Completed B.Sc (Engineering) in ECE", "from HSTU, Dinajpur", "Expert in Web Design", "Expert in HTML5, CSS3", "Expert in Bootstrap", "Expert in PSD TO HTML.",  "Expert in WordPress."],
 		typeSpeed: 100,
 		loop: true,
 		startDelay: 1000,
